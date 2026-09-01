@@ -25,5 +25,4 @@ if __name__ == "__main__":
     
     print(f"Original  : {message}")
     print(f"Encrypted : {encrypted}")
-    print(f"Decrypted : {decrypted}")# Python-Cyber-Basics
-A collection of scripts, algorithms, and practical notes exploring AI models and cybersecurity fundamentals.
+    print(f"Decrypted : {decrypted}")
