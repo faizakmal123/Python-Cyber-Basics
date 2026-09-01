@@ -8,7 +8,7 @@ A lightweight Python exploration focusing on cybersecurity fundamentals, cryptog
 
 ## 🚀 How to Run
 
-Pastikan Python 3 sudah terpasang, lalu jalankan perintah berikut di terminal:
+Ensure Python 3 is installed, then run the following command in your terminal:
 
 ```bash
 python main.py
